@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Navarex – For the Greater or Better</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 100px;
+    }
+    h1 {
+      font-size: 48px;
+      color: #00ffff;
+    }
+    p {
+      font-size: 24px;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Navarex</h1>
+  <p>For the Greater or Better</p>
+  <p>Website coming soon...</p>
+</body>
+</html>
